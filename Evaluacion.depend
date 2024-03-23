@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1711129142 source:c:\users\gabri\videos\feeee\lab de progra 2\evaluacion\evaluacion\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"Abono.h"
+	"Fecha.h"
+	"Cliente.h"
+	"Cuenta.h"
+
+1711092684 source:c:\users\gabri\videos\feeee\lab de progra 2\evaluacion\evaluacion\src\abono.cpp
+	"Abono.h"
+
+1711080832 c:\users\gabri\videos\feeee\lab de progra 2\evaluacion\evaluacion\include\abono.h
+	"Fecha.h"
+	<iostream>
+
+1711082835 source:c:\users\gabri\videos\feeee\lab de progra 2\evaluacion\evaluacion\src\cliente.cpp
+	"Cliente.h"
+
+1711082837 c:\users\gabri\videos\feeee\lab de progra 2\evaluacion\evaluacion\include\cliente.h
+	<iostream>
+
+1711091850 source:c:\users\gabri\videos\feeee\lab de progra 2\evaluacion\evaluacion\src\cuenta.cpp
+	"Cuenta.h"
+
+1711091822 c:\users\gabri\videos\feeee\lab de progra 2\evaluacion\evaluacion\include\cuenta.h
+	"Cliente.h"
+	"Abono.h"
+	<string>
+	<iostream>
+
+1711071638 c:\users\gabri\videos\feeee\lab de progra 2\evaluacion\evaluacion\include\fecha.h
+	<iostream>
+
+1711078428 source:c:\users\gabri\videos\feeee\lab de progra 2\evaluacion\evaluacion\src\fecha.cpp
+	"Fecha.h"
+
